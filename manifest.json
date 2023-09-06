@@ -2,7 +2,7 @@
   "manifest_version": 3,
   "name": "Speech to Text",
   "version": "1.0",
-  "description": "Convert speech to text by Adithya N Raj Version 1.",
+  "description": "Convert speech to text by Adithya N Raj - Version 1.",
   "permissions": ["activeTab", "scripting"],
   "action": {
     "default_title": "Toggle Speech to Text"
