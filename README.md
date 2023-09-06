@@ -10,3 +10,4 @@ Click the "Load unpacked" button, and select the directory containing cloned rep
 The extension should now appear in your list of installed extensions, and its icon should be visible in the browser toolbar.
 Alt+ U : to Start recording Speech .
 "that's all " to end Recording or Alt+U again.
+<img width="1155" alt="image" src="https://github.com/adithyanraj03/Speech-to-Text-API/assets/39313793/24553d5c-3099-42d7-bb9c-0825378990c5">
